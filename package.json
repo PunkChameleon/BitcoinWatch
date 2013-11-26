@@ -1,0 +1,16 @@
+{
+    "name": "nickcoin",
+    "version": "0.0.1",
+    "main": "index.js",
+    "description": "Bitcoin API alerting system.",
+    "author": {
+        "name": "Nick Weingartner",
+        "email": "nweingartner@gmail.com"
+    },
+    "readmeFilename": "README.md",
+    "license": "GPLv3",
+    "dependencies": {
+        "coinbase-api": "latest",
+        "twit": "latest"
+    }
+}

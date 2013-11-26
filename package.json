@@ -11,6 +11,7 @@
     "license": "GPLv3",
     "dependencies": {
         "coinbase-api": "latest",
-        "twit": "latest"
+        "twit": "latest",
+        "mtgox": "latest"
     }
 }
